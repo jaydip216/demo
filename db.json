@@ -1,3 +1,5 @@
 {
-"user":1
+"users":[
+{ "id": 1, "title": "Post 1" }  
+]
 }
